@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04598c47-572a-4ad0-b813-4ae42319b582" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/intermediate-jars/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/intermediate-jars/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/clioten/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/clioten/livequery/CliveDevices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android/clioten/src/main/java/com/clioten/livequery/CliveDevices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android/clioten/src/main/java/com/clioten/livequery/CliveDevices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testaa.py" beforeDir="false" afterPath="$PROJECT_DIR$/testaa.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testaa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/soket.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/autobahn/websocket/protocol.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8910">
+              <caret line="627" selection-start-line="627" selection-end-line="627" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/autobahn/twisted/websocket.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="165" selection-start-line="165" selection-end-line="165" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iotapp</find>
+      <find>oncomm</find>
+      <find>put</find>
+      <find>mmm</find>
+      <find>mysss</find>
+      <find>device</find>
+      <find>update</find>
+      <find>1337</find>
+      <find>localhost</find>
+      <find>hohoho</find>
+      <find>who</find>
+      <find>localhos</find>
+      <find>iotSend</find>
+      <find>IOT SEND</find>
+      <find>sendiotmsg</find>
+      <find>ABC123</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myinterface.py" />
+        <option value="$PROJECT_DIR$/Device.py" />
+        <option value="$PROJECT_DIR$/interfaceDevice.py" />
+        <option value="$PROJECT_DIR$/dev.py" />
+        <option value="$PROJECT_DIR$/testaa.py" />
+        <option value="$PROJECT_DIR$/soket.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="230" />
+=======
+    <option name="x" value="231" />
+>>>>>>> 8df7b523cdd2fa583d9752e93f78b5c0a3656c4f
+    <option name="y" value="26" />
+    <option name="width" value="886" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="rest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="rest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testaa">
+    <configuration name="soket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rest2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rest2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testaa" />
+        <item itemvalue="Python.soket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04598c47-572a-4ad0-b813-4ae42319b582" name="Default Changelist" comment="" />
+      <created>1555790813636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555790813636</updated>
+      <workItem from="1555790814956" duration="23304000" />
+      <workItem from="1555863781063" duration="2644000" />
+      <workItem from="1555993034360" duration="2236000" />
+      <workItem from="1556232723303" duration="270000" />
+      <workItem from="1556235124990" duration="160000" />
+      <workItem from="1556249462401" duration="761000" />
+      <workItem from="1556645017511" duration="19000" />
+      <workItem from="1557083595382" duration="952000" />
+      <workItem from="1557469154857" duration="6000" />
+      <workItem from="1557603927415" duration="5353000" />
+      <workItem from="1557615429376" duration="4475000" />
+      <workItem from="1557696838777" duration="235000" />
+      <workItem from="1558120687815" duration="31000" />
+      <workItem from="1558123280278" duration="1232000" />
+      <workItem from="1558125090033" duration="617000" />
+      <workItem from="1558128479296" duration="1355000" />
+      <workItem from="1558130304342" duration="1012000" />
+      <workItem from="1558132754150" duration="463000" />
+      <workItem from="1558151094289" duration="1780000" />
+      <workItem from="1558152907284" duration="1789000" />
+      <workItem from="1558154894293" duration="729000" />
+      <workItem from="1558160587635" duration="991000" />
+      <workItem from="1558162186066" duration="1707000" />
+      <workItem from="1558203129156" duration="439000" />
+      <workItem from="1558207215302" duration="269000" />
+      <workItem from="1558207686279" duration="975000" />
+<<<<<<< HEAD
+      <workItem from="1558209330705" duration="704000" />
+=======
+      <workItem from="1558209330705" duration="516000" />
+>>>>>>> 8df7b523cdd2fa583d9752e93f78b5c0a3656c4f
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="54508000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="230" y="26" width="886" height="940" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="54320000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="102" y="26" width="886" height="940" extended-state="0" />
+>>>>>>> 8df7b523cdd2fa583d9752e93f78b5c0a3656c4f
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.056872036" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32983682" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38443395" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38443395" />
+>>>>>>> 8df7b523cdd2fa583d9752e93f78b5c0a3656c4f
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32784432" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32784432" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32983682" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rest2$testaa.coverage" NAME="testaa Coverage Results" MODIFIED="1558209805101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rest2$soket.coverage" NAME="soket Coverage Results" MODIFIED="1555792684611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Device.py" />
+    <entry file="file://$PROJECT_DIR$/myinterface.py" />
+    <entry file="file://$PROJECT_DIR$/interfaceDevice.py" />
+    <entry file="file://$PROJECT_DIR$/dev.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/autobahn/websocket/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="929" column="30" selection-start-line="929" selection-start-column="30" selection-end-line="929" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/twisted/python/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/autobahn/websocket/protocol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8910">
+          <caret line="627" selection-start-line="627" selection-end-line="627" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/autobahn/twisted/websocket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
