@@ -6,7 +6,7 @@ class LiveDevice (IDevice):
         print("received: "+data+" "+objId)
         if Device.mode == 1:
             Device.mode = 0
-            data =  "Gonderilen veri"
+            data =  "Data sent"
             Device.Updateresult(Device.who, "result data" ,data)
             print("result sent: " + data )
             sleep(0.1)
@@ -14,5 +14,4 @@ class LiveDevice (IDevice):
 if __name__ == '__main__':
     device = LiveDevice
     deviceId =  "0U7kUy3lCG"
-    Device.createDevice(device,"www.clioten.com" , "denemdemQe5SiKDVFk", "clfpIaRtAuhJDSGCeb4b6R" ,deviceId)
-
+    Device.createDevice(device,"www.clioten.com" , "App Id", "client Key" ,deviceId)
